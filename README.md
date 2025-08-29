@@ -87,7 +87,7 @@ ___
       <td><b>Nexatage Frontend</b></td>
       <td>Frontend for a digital agency platform specializing in modern web solutions</td>
       <td>React • Next.js • Tailwind</td>
-      <td><a href="https://github.com/kodget/nexatage-frontend">Code</a></td>
+      <td><a href="https://github.com/UsaydAI/nexatage-frontend">Code</a></td>
     </tr>
     <tr>
       <td><b>Airbnb Clone Project</b></td>
