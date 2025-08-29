@@ -11,6 +11,13 @@
 
 ---
 
+## 👩‍💻 Summary
+
+> Impact-driven frontend engineer focused on **SaaS** and soon **Web3**. Skilled in React, Next.js, and modern frontend tools to create scalable user experiences. Passionate about building solutions that impact **infrastructure**, **education**, **agriculture**, and **DeFi**.
+
+___
+
+
 ## 🎯 Mission
 
 > **I build software that moves the needle.** My focus is solving real problems in **infrastructure**, **education**, **agriculture**, and **DeFi** using scalable **SaaS** and practical **Web3** (soon diving in!).
@@ -123,9 +130,3 @@
   <a href="mailto:ajuwonmuhammad99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A66C2" /></a>
   <a href="https://x.com/ibuildstuffs"><img src="https://img.shields.io/badge/Twitter-Follow-111827?logo=x" /></a>
 </p>
-
----
-
-### Bonus: Recruiter-Friendly Summary
-
-> Impact-driven frontend engineer focused on **SaaS** and soon **Web3**. Skilled in React, Next.js, and modern frontend tools to create scalable user experiences. Passionate about building solutions that impact **infrastructure**, **education**, **agriculture**, and **DeFi**.
