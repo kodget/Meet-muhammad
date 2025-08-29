@@ -38,7 +38,7 @@ ___
 
 * ✅ Complete advanced React and Next.js projects
 * 🚧 Start Solidity basics and Web3 integration exercises
-* 🧪 Build an experimental dApp after fundamentals
+* 🧪 Launch the MVP of my first full-fledged Saas, <i>Rev</>
 
 </details>
 
